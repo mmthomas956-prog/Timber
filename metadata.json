@@ -1,0 +1,6 @@
+{
+  "name": "ST Wood ERP",
+  "description": "Matter & Margin Tracker for timber log procurement, sawmill conversion, inventories, custom assembly estimation, and CEO scaling dashboard — complete with AppSheet schema and build-guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
